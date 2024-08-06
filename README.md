@@ -1,1 +1,3 @@
-# Web-development-Major-project
+Form Validation Project
+In this major project, I developed an advanced form validation system utilizing HTML and CSS. The project features a comprehensive form with multiple fields designed to capture user information while ensuring data accuracy and relevance. By implementing various validation techniques, the form rigorously checks user inputs for completeness and correctness, providing real-time feedback and enhancing data integrity. This project highlights my ability to create robust, user-friendly web forms and demonstrates my proficiency in applying HTML and CSS to achieve effective form validation and improve overall user experience.
+
